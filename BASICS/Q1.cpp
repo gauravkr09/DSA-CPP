@@ -1,35 +1,23 @@
+#include <iostream>
 #include <vector>
 using namespace std;
 
 int main(){
-    // int x;
-    // cout << "Enter The Number : ";
-    // cin >> x;
-    // cout << x << endl;
-    // return 0;
+    int n;
+    cin >> n;
+    int arr[n];
 
+    for(int i = 0; i<n; i++){
+        cin >> arr[i];
+    }
 
-    // int x;
-    // cin >> x;
+    int maxElement = arr[0];
 
-    // if(x > 0){
-    //     cout << "High";
-    // } else{
-    //     cout << "Low";
-    // }
-
-    // for(int i = 0; i<= 5; i++){
-    //     cout <<i;
-    // }
-
-    // int arr [5] = {1,2,3,4,5};
-    // for(int i = 0; i<5; i++){
-    //     cout << arr[i];
-    // }
-
-    vector<int> v;
-
-    v.
-
-
+    for(int i = 1; i<n; i++){
+       if(maxElement < arr[i]){
+          maxElement = arr[i];
+       }
+    }
+    cout << maxElement;
+    return 0;
 }

@@ -1,0 +1,182 @@
+## 🧱 1️⃣ C++ Foundations (Very Important)
+
+Before hardcore DSA, master these in C++:
+
+* Input / Output (`cin`, `cout`)
+* Data types
+* Loops & conditions
+* Functions
+* Pointers & references
+* Memory basics (`stack vs heap`)
+* **STL basics**
+
+  * `vector`
+  * `pair`
+  * `map`, `unordered_map`
+  * `set`, `unordered_set`
+  * `stack`, `queue`
+  * `priority_queue`
+  * `sort()`
+
+---
+
+## 📦 2️⃣ Arrays
+
+* 1D arrays
+* 2D arrays
+* Prefix sum
+* Kadane’s Algorithm
+* Majority element
+* Rotate array
+* Two Sum
+* Dutch National Flag
+
+---
+
+## 🔤 3️⃣ Strings
+
+* String basics
+* Reverse string
+* Palindrome check
+* Anagram
+* Longest common prefix
+* String hashing (intro)
+
+---
+
+## 🔁 4️⃣ Recursion & Backtracking
+
+* Recursion basics
+* Tail recursion
+* Fibonacci
+* Factorial
+* Subsets
+* Permutations
+* N-Queens
+* Rat in a maze
+
+---
+
+## 🔍 5️⃣ Searching
+
+* Linear search
+* Binary search
+* Binary search on answer
+* First & last occurrence
+* Search in rotated sorted array
+
+---
+
+## 🔃 6️⃣ Sorting
+
+* Bubble sort
+* Selection sort
+* Insertion sort
+* Merge sort
+* Quick sort
+* Count sort
+* Heap sort
+
+---
+
+## 🧮 7️⃣ Hashing
+
+* Frequency arrays
+* Hash maps
+* Hash sets
+* Two Sum
+* Longest subarray with sum K
+
+---
+
+## 📚 8️⃣ Stack
+
+* Stack implementation
+* Next greater element
+* Balanced parentheses
+* Infix → Postfix
+* Largest rectangle in histogram
+
+---
+
+## 🚶 9️⃣ Queue
+
+* Queue basics
+* Deque
+* Circular queue
+* Sliding window maximum
+
+---
+
+## 🔗 1️⃣0️⃣ Linked List
+
+* Singly linked list
+* Doubly linked list
+* Insert / delete
+* Reverse linked list
+* Detect loop (Floyd’s)
+* Merge two sorted lists
+
+---
+
+## 🌳 1️⃣1️⃣ Trees
+
+* Binary tree
+* Tree traversals (Inorder, Preorder, Postorder)
+* Level order
+* Height & diameter
+* BST
+* LCA
+* Tree views
+
+---
+
+## 🌐 1️⃣2️⃣ Graphs
+
+* Graph representation
+* BFS
+* DFS
+* Cycle detection
+* Topological sort
+* Shortest path (Dijkstra, BFS)
+* MST (Prim, Kruskal)
+
+---
+
+## 🧠 1️⃣3️⃣ Dynamic Programming (Advanced)
+
+* Memoization
+* Tabulation
+* Fibonacci DP
+* Knapsack
+* LCS
+* LIS
+* Matrix chain multiplication
+
+---
+
+## ⚡ 1️⃣4️⃣ Greedy Algorithms
+
+* Activity selection
+* Job sequencing
+* Fractional knapsack
+* Huffman coding
+
+---
+
+## 🎯 1️⃣5️⃣ Bit Manipulation
+
+* Bitwise operators
+* Check power of 2
+* Single number problems
+* XOR tricks
+
+---
+
+## ⏱️ 1️⃣6️⃣ Time & Space Complexity
+
+* Big O, Big Ω, Big Θ
+* Best / worst case
+* Space optimization
+
+---
